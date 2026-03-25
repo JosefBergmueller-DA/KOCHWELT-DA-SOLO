@@ -1,0 +1,30 @@
+.first-section img {
+    width: 400px;
+}
+
+.first-section {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 40px;
+}
+
+.recipe-first-section {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.recipe-first-section button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 48px;
+    cursor: pointer;
+    margin-top: auto;
+}
